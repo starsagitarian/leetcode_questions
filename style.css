@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10px 30px;
+  background-color: lightpink;
+}
+
+div {
+  padding: 20px;
+  background-color: green;
+}
+
+span {
+  display: block;
+  padding: 20px;
+  background-color: blue;
+}
+
+button {
+  display: block;
+  margin: 20px;
+  padding: 20px;
+  background-color: yellow;
+}
